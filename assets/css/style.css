@@ -5,3 +5,44 @@
     padding: 0;
     border: none;
 }
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: #0C4160;
+}
+
+/* Headings and logo */
+
+h1, h2 {
+    font-family: Montserrat, sans-serif;
+    color: #0C4160;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h1, a {
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 200%;
+    margin-left: 10px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+ul li {
+    display: flex;
+    margin: 15px;
+}
+
