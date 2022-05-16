@@ -64,12 +64,18 @@ ul li a:hover {
     line-height: normal;
 }
 
-/* Hero image */
+/* Hero image and cover text */
 
 #hero-outer {
     height: 300px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;
 }
 
 #hero-image {
@@ -92,4 +98,31 @@ ul li a:hover {
     to{
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 100%;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 350px;
+    height: 350px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+    
+    background-color: rgba(12, 65, 96, .7);
+
+    bottom: 20px;
+    top: 165px;
+    right: 100px;
+
+    position: absolute;
+}
+
+h3 {
+    font-size: smaller;
+    text-align: center;
+    padding-top: 10px;
 }
