@@ -93,11 +93,11 @@ ul li a:hover {
 /* Creates the zoom effect for the hero image */
 @keyframes hero-zoom {
     from{
-        transform: scale(1);
+        transform: scale(1.1);
     }
     
     to{
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
