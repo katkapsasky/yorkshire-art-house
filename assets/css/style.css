@@ -136,3 +136,8 @@ ul li a:hover {
     height: 50vh;
     width: 100%;
 }
+
+#about-us-title {
+    text-align: center;
+    padding-top: 1%;
+}
