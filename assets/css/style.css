@@ -30,6 +30,13 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 3px;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+
+    background-color: #fff;
 }
 
 #menu a {
@@ -78,7 +85,7 @@ ul li a:hover {
 }
 
 #hero-image {
-    height: 50vh;
+    height: 55vh;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
     background-size: cover;
@@ -110,13 +117,13 @@ ul li a:hover {
     width: 20vw;
     height: 20vh;
 
-    padding-top: 20px;
+    padding-top: 30px;
     padding-left: 10px;
     
-    background-color: rgba(48, 83, 115, .7);
+    background-color: rgba(44, 110, 73, .7);
 
     bottom: 20px;
-    top: 200px;
+    top: 220px;
     right: 100px;
 
     position: absolute;
@@ -128,16 +135,54 @@ ul li a:hover {
     font-size: 100%;
 }
 
-/* About us section */
+/* about us */
 
 #about-us {
     color: #fff;
     background-color: #305373;
-    height: 50vh;
+    height: 75vh;
     width: 100%;
 }
 
 #about-us-title {
     text-align: center;
     padding-top: 1%;
+}
+
+/* contact us */
+
+#contact {
+    height: 30vh;
+    width: 100%;
+    color: #fff;
+    background-color: #2C6E49;
+}
+
+#contact-title {
+    text-align: center;
+    padding-top: 1%; 
+}
+
+/* footer */
+
+footer {
+    height: 10vh;
+    width: 100%;
+
+}
+
+.social-media {
+    display: flex;
+    justify-content:space-around;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #305373;
 }
