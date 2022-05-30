@@ -162,7 +162,7 @@ header ul li a:hover {
 
 #contact-title {
     text-align: center;
-    padding-top: 1%; 
+    padding: 1%; 
 }
 
 .contact-container {
@@ -209,10 +209,21 @@ header ul li a:hover {
 
 /* Form */
 
+#events-info {
+    height: 55vh;
+    width: 100%;
+    margin-top: 5%;
+    background-color: #305373;
+    color: #fff;
+}
+
 form {
-    padding: 5%;
-    background-color: #AA767C;
+    height: 30vh;
+    width: 100%;
+    background-color: #C8A7AB;
     text-align: center;
+
+    padding: 1%;
 }
 
 /* footer */
