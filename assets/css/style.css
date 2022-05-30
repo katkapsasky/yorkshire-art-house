@@ -149,6 +149,8 @@ header ul li a:hover {
     padding-top: 1%;
 }
 
+
+
 /* contact us */
 
 #contact {
@@ -161,6 +163,48 @@ header ul li a:hover {
 #contact-title {
     text-align: center;
     padding-top: 1%; 
+}
+
+.contact-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 20% 80%;
+    justify-content: space-evenly;
+    padding: 1%;
+    row-gap: 10%;
+    text-align: center;
+}
+
+.opening-times-title {
+    grid-column: 1;
+    grid-row: 1;
+    text-align: center;
+}
+
+.opening-times {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: center;
+}
+
+.get-in-touch-title {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.get-in-touch {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.address-title {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.address {
+    grid-column: 3;
+    grid-row: 2;
 }
 
 /* footer */
