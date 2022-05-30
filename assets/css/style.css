@@ -207,12 +207,21 @@ header ul li a:hover {
     grid-row: 2;
 }
 
+/* Form */
+
+form {
+    padding: 5%;
+    background-color: #AA767C;
+    text-align: center;
+}
+
 /* footer */
 
 footer {
     height: 10vh;
     width: 100%;
-
+    bottom: 0;
+    background-color: #fff;
 }
 
 .social-media {
