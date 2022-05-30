@@ -60,7 +60,7 @@ ul li {
     margin-right: 30px;
 }
 
-ul li a:hover {
+header ul li a:hover {
     border-bottom: 1px solid #305373;
     line-height: normal;
 }
