@@ -14,7 +14,7 @@ body {
 
 /* Headings and logo */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -34,6 +34,7 @@ h1, h2 {
     position: fixed;
     top: 0;
     width: 100%;
+    height: fit-content;
     z-index: 9999;
 
     background-color: #fff;
@@ -117,13 +118,13 @@ header ul li a:hover {
     border-radius: 20px;
 
     width: 20vw;
-    height: 20vh;
+    height: fit-content;
     margin: 0 auto;
-    padding-top: 1%;
+    padding: 1%;
     background-color: rgba(44, 110, 73, .7);
 
     bottom: 20px;
-    top: 200px;
+    top: 250px;
     right: 100px;
 
     position: absolute;
@@ -135,32 +136,38 @@ header ul li a:hover {
     font-size: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* about us */
 
 #about-us {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 10vh auto auto auto;
+    grid-template-rows: 10% 30% 30% 30%;
     justify-content: center;
 
     color: #fff;
     background-color: rgba(48, 83, 115, .9);
-    height: 150vh;
+    height: 180vh;
     width: 100%;
+
+    font-size: larger;
 }
+
+
 
 #about-us-title {
     text-align: center;
     margin: 20px;
 
-    grid-row: 1 / 2;
-    grid-column: 1 / 4;
+    grid-area: 1 / 1 / 2 / 4;
 }
 
 #about-us-top-image {
     grid-area: 2 / 1 / 3 / 3;
     padding-left: 5%;
-    padding-top: 5%;
 }
 
 #about-us-top-image > img {
@@ -171,24 +178,36 @@ header ul li a:hover {
 #about-us-top-text {
     grid-area: 2 / 2 / 3 / 4;
     text-align: center;
-    padding-right: 10%;
-    padding-top: 15%;
+    padding: 5%;
 }
 
 #about-us-middle-text {
     grid-area: 3 / 1 / 4 / 2;
     text-align: center;
-    padding-top: 15%;
-    padding-left: 5%;
+    padding: 5%;
 }
 
 #about-us-middle-image {
     grid-area: 3 / 2 / 4 / 3;
     padding-left: 10%;
-    padding-top: 5%;
 }
 
 #about-us-middle-image > img {
+    border-radius: 25px;
+}
+
+#about-us-bottom-text {
+    grid-area: 4 / 2 / 5 / 3;
+    text-align: center;
+    padding: 5%;
+}
+
+#about-us-bottom-image {
+    grid-area: 4 / 1 / 5 / 2;
+    padding-left: 10%;
+}
+
+#about-us-bottom-image > img {
     border-radius: 25px;
 }
 
