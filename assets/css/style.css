@@ -352,9 +352,6 @@ footer {
         grid-area: 3 / 1 / 4 / 2;
         width: 65%;
         height: fit-content;
-        margin: 0 auto;
-
-        padding-right: 5%;
     }
     
     #about-us-top-image > img {
@@ -402,7 +399,7 @@ footer {
     /* contact us */
 
 #contact {
-    height: 40vh;
+    height: 55vh;
     width: 100%;
     color: #fff;
     background-color: rgba(44, 110, 73, .9);
