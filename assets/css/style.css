@@ -307,7 +307,7 @@ footer {
 
 /* Events page */
 #events-info {
-    height: 55vh;
+    height: 60vh;
     width: 100%;
     margin-top: 5%;
     background-color: #305373;
@@ -318,6 +318,7 @@ footer {
     text-align: center;
     padding: 1%;
 }
+
 /* Form */
 
 form {
@@ -333,6 +334,10 @@ form {
 
 /* For larger to medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+
+    #logo {
+        font-size: 150%;
+    }
 
     #about-us {
         display: grid;
