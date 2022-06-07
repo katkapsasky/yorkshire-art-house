@@ -17,7 +17,7 @@ body {
 h1, h2, h3 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
 }
 
 #logo {
@@ -302,36 +302,53 @@ footer {
 
 /* Events page */
 #events-info {
-    width: 100%;
-    margin-top: 5%;
-    background-color: #305373;
+    
+    margin-top: 30px;
+    background-color: #2C6E49;
     color: #fff;
 
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 10% 90%;
     grid-row-gap: 10%;
-    padding: 1%;
+    grid-column-gap: 1%;
+    padding: 5%;
 }
 
 #events-info > h2 {
     text-align: center;
-    padding: 1%;
     grid-row: 1;
     grid-column: span 4;
+    padding-bottom: 5%;
 }
 
 #events-info > div {
     grid-row: 2;
+    background: url('../images/green-forest-painting.jpg') no-repeat center center;
+    text-align: center;
+    width: 80%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+#events-info > div > h3, h4 {
+    padding-top: 5%;
+    background-color: rgba(44, 110, 73, .7);
+}
+
+#events-info > div > p {
+    text-align: center;
+    padding-top: 5%;
+    background-color: rgba(44, 110, 73, .7);
 }
 
 /* Form */
 
 form {
-    height: 30vh;
     width: 100%;
     background-color: #C8A7AB;
     text-align: center;
+    margin-top: 30px;
 
     padding: 1%;
 }
