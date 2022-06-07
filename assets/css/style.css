@@ -34,7 +34,7 @@ h1, h2, h3 {
     position: fixed;
     top: 0;
     width: 100%;
-    height: fit-content;
+    height: 50px;
     z-index: 9999;
 
     background-color: #fff;
@@ -88,6 +88,7 @@ header ul li a:hover {
 #hero-image {
     height: 55vh;
     width: 100%;
+    margin-top: 30px;
     background: url('../images/hero-image.jpg') no-repeat center center;
     background-size: cover;
     font-size: 0;
@@ -118,9 +119,6 @@ header ul li a:hover {
     border-radius: 20px;
 
     width: 20vw;
-    height: fit-content;
-    margin: 0 auto;
-    padding: 1%;
     background-color: rgba(44, 110, 73, .7);
 
     top: 200px;
@@ -130,7 +128,7 @@ header ul li a:hover {
 }
 
 #call-to-action {
-    padding-top: 5%;
+    margin: 10%;
     text-align: center;
     font-size: 100%;
 }
@@ -145,31 +143,30 @@ a {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 10% 30% 30% 30%;
-    justify-content: center;
 
     color: #fff;
     background-color: rgba(48, 83, 115, .9);
-    height: 180vh;
     width: 100%;
+    height: 180vh;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
 
     font-size: larger;
 }
 
-
-
 #about-us-title {
     text-align: center;
-    margin: 20px;
-
-    grid-area: 1 / 1 / 2 / 4;
+    margin-top: 10px;
+    grid-area: 1 / 1 / 2 / 3;
 }
 
 #about-us-top-image {
-    grid-area: 2 / 1 / 3 / 3;
-    padding-left: 5%;
+    grid-area: 2 / 1 / 3 / 2;
 }
 
 #about-us-top-image > img {
+    margin-left: 50px;
     border-radius: 25px;
 }
 
@@ -177,13 +174,11 @@ a {
 #about-us-top-text {
     grid-area: 2 / 2 / 3 / 4;
     text-align: center;
-    padding: 5%;
 }
 
 #about-us-middle-text {
     grid-area: 3 / 1 / 4 / 2;
     text-align: center;
-    padding: 5%;
 }
 
 #about-us-middle-image {
@@ -203,18 +198,18 @@ a {
 
 #about-us-bottom-image {
     grid-area: 4 / 1 / 5 / 2;
-    padding-left: 10%;
 }
 
 #about-us-bottom-image > img {
+    margin-left: 50px;
     border-radius: 25px;
 }
 
 /* contact us */
 
 #contact {
-    height: 40vh;
     width: 100%;
+    margin-top: 30px;
     color: #fff;
     background-color: rgba(44, 110, 73, .9);
 }
@@ -307,16 +302,27 @@ footer {
 
 /* Events page */
 #events-info {
-    height: 60vh;
     width: 100%;
     margin-top: 5%;
     background-color: #305373;
     color: #fff;
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 10% 90%;
+    grid-row-gap: 10%;
+    padding: 1%;
 }
 
 #events-info > h2 {
     text-align: center;
     padding: 1%;
+    grid-row: 1;
+    grid-column: span 4;
+}
+
+#events-info > div {
+    grid-row: 2;
 }
 
 /* Form */
@@ -336,7 +342,30 @@ form {
 @media screen and (max-width: 1200px) {
 
     #logo {
-        font-size: 150%;
+        font-size: 100%;
+    }
+
+    #cover-text {
+        font-size: 100%;
+        font-family: Montserrat, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        border-radius: 20px;
+    
+        width: 15vw;
+        margin: 0 auto;
+        padding: 1%;
+        background-color: rgba(44, 110, 73, .7);
+    
+        top: 200px;
+        right: 100px;
+    
+        position: absolute;
+    }
+    
+    #call-to-action {
+        text-align: center;
+        font-size: 75%;
     }
 
     #about-us {
@@ -473,3 +502,4 @@ form {
 
 }
 
+/* For smaller screen sizes from 600px wide and down */
