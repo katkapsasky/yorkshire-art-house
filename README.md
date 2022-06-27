@@ -67,9 +67,9 @@ Ideas of features to be added in the future.
 ## Technologies Used
 
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>https://gitpod.io</li>
+<li>HTML: Used for site layout and context</li>
+<li>CSS: Used for site layout and aesthetics</li>
+<li>[Gitpod](https://gitpod.io): Used for cloud-based development IDE</li>
 <li>https://github.com/</li>
 <li>https://git-scm.com/</li>
 <li>https://balsamiq.com/</li>
@@ -81,7 +81,7 @@ Ideas of features to be added in the future.
 
 ## Testing
 
-For all testing please refer to the [TESTING.md](testing/TESTING.md) file.
+For all testing please refer to the [TESTING.md](TESTING.md) file.
 
 ---
 
