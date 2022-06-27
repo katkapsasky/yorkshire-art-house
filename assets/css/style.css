@@ -327,8 +327,9 @@ footer {
     color: #fff;
 
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 10% 90%;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    grid-column-gap: 10px;
     
     padding: 5%;
     max-width: 100%;
@@ -339,22 +340,20 @@ footer {
     text-align: center;
     grid-row: 1;
     grid-column: span 4;
-    padding-bottom: 5%;
+    border-radius: 25px;
+    margin: 0 auto;
 }
 
 #events-info > div {
     grid-row: 2;
     background-color: rgba(44, 110, 73, .7);
-
-
     text-align: center;
-    width: 80%;
-    height: 80%;
+
     border-radius: 25px;
-    margin-top: 5%;
+    margin: 5%;
 }
 
-#events-info > div > h3, h4 {
+#events-info > div > h3, h4, h5{
     padding-top: 5%;
 }
 
@@ -542,6 +541,21 @@ form > h2 {
     grid-row: 4;
 }
 
+/* Events page */
+#events-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: url('../images/hero-image.jpg') no-repeat center center; 
+    background-size: cover;
+    overflow: hidden;
+    color: #fff;
+    margin-top: 5%;
+}
+
+#events-info > div {
+    padding: 1%;
+}
 }
 
 /* For smaller screen sizes from 600px wide and down */
@@ -754,4 +768,36 @@ a {
     width: 100%;
     margin-bottom: 10px;
 }
+
+/* Events page */
+#events-info {
+    display: flex;
+    flex-wrap: wrap;
+    background: url('../images/hero-image.jpg') no-repeat center center; 
+    background-size: cover;
+    overflow: hidden;
+    color: #fff;
+    margin-top: 5%;
+}
+
+#events-info > h2 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+/* Form */
+
+form {
+    background-color: #305373;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5%;
+
+}
+
+form > h2 {
+    margin-bottom: 5%;
+}
+
 }
