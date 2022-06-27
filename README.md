@@ -34,9 +34,15 @@ Explain fonts and icon libraries used
 
 | Page | Responsiveness | Wireframe |
 | --- | --- | --- |
-| Home Page | [mobile](docs/wireframes/home-mobile.png) | ![mobile](docs/wireframes/home-mobile.png) |
-| Gallery Page | [tablet](docs/wireframes/gallery-tablet.png) | ![tablet](docs/wireframes/gallery-tablet.png) |
-| Events Page | [desktop](docs/wireframes/events-desktop.png) | ![desktop](docs/wireframes/events-desktop.png) |
+| Home Page | [mobile](documentation/responsiveness/mobile-homepage.png) | ![mobile](documentation/wireframes/mobile-homepage.png) |
+| Home Page | [tablet](documentation/responsiveness/tablet-homepage.png) | ![tablet](documentation/wireframes/tablet-homepage.png) |
+| Home Page | [desktop](documentation/responsiveness/desktop-homepage.png) | ![desktop](documentation/wireframes/desktop-homepage.png) |
+| Gallery Page | [mobile](documentation/responsiveness/mobile-gallery.png) | ![tablet](documentation/wireframes/mobile-gallery.png) |
+| Gallery Page | [tablet](documentation/responsiveness/tablet-gallery.png) | ![tablet](documentation/wireframes/tablet-gallery.png) |
+| Gallery Page | [desktop](documentation/responsiveness/desktop-gallery.png) | ![tablet](documentation/wireframes/desktop-gallery.png) |
+| Events Page | [mobile](documentation/responsiveness/mobile-events.png) | ![desktop](documentation/wireframes/mobile-events.png) |
+| Events Page | [tablet](documentation/responsiveness/tablet-events.png) | ![desktop](documentation/wireframes/tablet-events.png) |
+| Events Page | [desktop](documentation/responsiveness/desktop-events.png) | ![desktop](documentation/wireframes/desktop-events.png) |
 
 ## Features
 
