@@ -96,7 +96,7 @@ header ul li a:hover {
     /* Animates zoom effect on landing page */
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forward;
+    animation-fill-mode: forwards;
 }
 
 /* Creates the zoom effect for the hero image */
@@ -777,7 +777,7 @@ a {
     background-size: cover;
     overflow: hidden;
     color: #fff;
-    margin-top: 5%;
+    margin-top: 10%;
 }
 
 #events-info > h2 {

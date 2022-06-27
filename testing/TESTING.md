@@ -14,7 +14,7 @@ Showcase proof that all coding files have been validated
 
 ## Responsiveness
 
-Showcase proof that project has been tsted on different device sizes
+Showcase proof that project has been tested on different device sizes
 
 ## Unfixed Bugs
 
