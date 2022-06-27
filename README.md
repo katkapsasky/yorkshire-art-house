@@ -4,7 +4,7 @@ The Yorkshire Art House is a landing page for art enthusiasts, collectors and st
 
 Users of this website will be able to access information about the artist and contact details on the Homepage, images of the art work on the Gallery page, and dates of exhibitions and classes as well as a sign up form on the Events page, which are all accessible from the navigation bar in the header of all pages. The site is targeted at people of all ages with an interest in fine art, landscapes and the Yorkshire Dales.
 
-Screenshot of webpage on common screen sizes using am I responsive.
+[Screenshot of webpage on common screen sizes using am I responsive:](documentation/responsiveness/responsive-homepage.png)
 
 ---
 
@@ -44,6 +44,8 @@ Explain fonts and icon libraries used
 | Events Page | [tablet](documentation/responsiveness/tablet-events.png) | ![desktop](documentation/wireframes/tablet-events.png) |
 | Events Page | [desktop](documentation/responsiveness/desktop-events.png) | ![desktop](documentation/wireframes/desktop-events.png) |
 
+---
+
 ## Features
 
 Briefly explain the project
@@ -60,7 +62,16 @@ Ideas of features to be added in the future.
 
 ## Technologies Used
 
-HTML, CSS, Gitpod, GitHub, Git, Balsamiq etc. add links to each site if possible
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>https://gitpod.io</li>
+<li>https://github.com/</li>
+<li>https://git-scm.com/</li>
+<li>https://balsamiq.com/</li>
+<li>https://tinypng.com/</li>
+<li>https://imageresizer.com/</li>
+</ul>
 
 ---
 
