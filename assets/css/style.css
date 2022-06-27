@@ -110,6 +110,7 @@ header ul li a:hover {
     }
 }
 
+/* call to action */
 #cover-text {
     font-size: 100%;
     font-family: Montserrat, sans-serif;
@@ -571,5 +572,33 @@ form > h2 {
         border-bottom: 1px solid #305373;
         line-height: normal;
     }
+
+    /* call to action */
+#cover-text {
+    font-size: 80%;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    justify-content: center;
+    border-radius: 20px;
+
+    width: 30vw;
+    background-color: rgba(44, 110, 73, .7);
+
+    top: 220px;
+    right: 50px;
+
+    position: absolute;
+}
+
+#call-to-action {
+    margin: 10%;
+    text-align: center;
+    font-size: 100%;
+}
+
+a {
+    text-decoration: none;
+}
 
 }
