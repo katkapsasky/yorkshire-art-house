@@ -66,7 +66,7 @@ HTML, CSS, Gitpod, GitHub, Git, Balsamiq etc. add links to each site if possible
 
 ## Testing
 
-For all testing please refer to the [TESTING.md](TESTING.md) file.
+For all testing please refer to the [TESTING.md](testing/TESTING.md) file.
 
 ---
 
