@@ -10,9 +10,7 @@ Users of this website will be able to access information about the artist and co
 
 ## UX
 
-The website is made up of three main pages. Each page has a consistent theme, using the same header and footer, fonts and colour scheme across each one.
-
-The landing page is accessible via the logo and the Home link in the header which is fixed to the top of all pages. The Gallery and Events pages are also accessible via their respective links in the header on all pages
+The website is made up of three main pages. Each page has a consistent theme, using the same header and footer, fonts and colour scheme across each one. 
 
 ### User Stories
 
@@ -20,11 +18,17 @@ As a user,
 <ul>
 <li>I would like to find information about the gallery including it's history, it's location, the type of artwork displayed and information about the artist. </li> 
 <li>I would like to know the contact details for the gallery, including opening days and times, phone, email, address and social media links. </li>
+<li>I would like to view artwork by the artist</li>
+<li>I would like to find information about services provided by the gallery, including arts classes and exhibitions.</li>
+<li>I would like to sign up for further information and to get involved in activities such as art classes and exhibitions</li>
 </ul>
 
 ### Color Scheme
 
-Explain colours, generate image palette using coolors.co
+The colors are inspired by the art work shown, specifically from the hero image on the homepage. The color scheme was generated using https://coolors.co
+
+![color scheme](documentation/colorscheme/color-scheme.png)
+
 
 ### Typography
 
