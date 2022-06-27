@@ -69,18 +69,18 @@
     </section>
 
     <!-- Sign up form -->
-    <section>
-    <form action="confirmation.html" id="sign-up">
+    <section id="sign-up">
+    <form action="confirmation.html">
         <h2>Fancy getting involved in our upcoming events?</h2>
         <h3>Sign up here!</h3>
         <label for="fname">First Name:</label>
-        <input type="text" id="fname" name="first_name" required>
+        <input type="text" id="fname" name="first_name" class="text-input" required>
         <br>
         <label for="lname">Last Name:</label>
-        <input type="text" id="lname" name="last_name" required>
+        <input type="text" id="lname" name="last_name" class="text-input" required>
         <br>
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
+        <input type="email" id="email" name="email" class="text-input" required>
         <br>
         <label for="artclasses">Art Classes</label>
         <input type="radio" id="artclasses" name="event_preference" value="artclasses" required>
@@ -89,7 +89,7 @@
         <label for="both">Both</label>
         <input type="radio" id="both" name="event_preference" value="both">
         <br>
-        <input type="submit" value="Let's paint!">
+        <input class= "join-button" type="submit" value="Let's paint!">
     </form>
 </section>
 
