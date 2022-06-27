@@ -367,15 +367,14 @@ footer {
 form {
     background-color: #305373;
     color: #fff;
-    text-align: center;
-    margin: 0 auto;
     padding: 5%;
-
+    text-align: center;
 }
 
-form > h2 {
-    margin-bottom: 5%;
+form > h2, h3 {
+    padding-bottom: 5%;
 }
+
 
 /* Media queries */
 
@@ -388,15 +387,14 @@ form > h2 {
 
     /* call to action */
     #cover-text {
-        font-size: 70%;
+        font-size: 100%;
         font-family: Montserrat, sans-serif;
         text-transform: uppercase;
         letter-spacing: 3px;
         border-radius: 20px;
     
-        width: 15vw;
+        width: 50%;
         margin: 0 auto;
-        padding: 1%;
         background-color: rgba(44, 110, 73, .7);
     
         top: 200px;
@@ -405,10 +403,6 @@ form > h2 {
         position: absolute;
     }
     
-    #call-to-action {
-        text-align: center;
-        font-size: 75%;
-    }
 
     /* about us */
     #about-us {
