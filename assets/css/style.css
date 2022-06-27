@@ -541,3 +541,35 @@ form > h2 {
 }
 
 /* For smaller screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
+ 
+    .flexbox {
+        display: grid;
+        grid-template-rows: 50% 50%;
+        grid-template-columns: 100%;
+    }
+
+    #logo {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    header a {
+        margin: 0 auto;
+    }
+    header ul li {
+        display: block;
+        margin: 0 auto;
+    }   
+    
+    header ul li a:hover {
+        border-bottom: 1px solid #305373;
+        line-height: normal;
+    }
+    
+    .active {
+        border-bottom: 1px solid #305373;
+        line-height: normal;
+    }
+
+}
