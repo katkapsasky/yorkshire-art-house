@@ -4,7 +4,7 @@ The Yorkshire Art House is a landing page for art enthusiasts, collectors and st
 
 Users of this website will be able to access information about the artist and contact details on the homepage, images of the art work on the gallery page, and dates of exhibitions and classes as well as a sign up form on the events page, which are all accessible from the navigation bar in the header of all pages. The site is targeted at people of all ages with an interest in fine art, landscapes and the Yorkshire Dales.
 
-![Screenshot of webpage on common screen sizes using am I responsive](documentation/responsiveness/responsive-homepage.png)
+![Screenshot of webpage on common screen sizes using am I responsive](documentation/responsiveness/am-i-responsive.png)
 
 ---
 
@@ -40,15 +40,15 @@ The social media icons in the footer and the icons in the Contact Us section wer
 
 | Page | Responsiveness | Wireframe |
 | --- | --- | --- |
-| Home Page | [mobile](documentation/responsiveness/mobile-homepage.png) | ![mobile](documentation/wireframes/mobile-homepage.png) |
-| Home Page | [tablet](documentation/responsiveness/tablet-homepage.png) | ![tablet](documentation/wireframes/tablet-homepage.png) |
-| Home Page | [desktop](documentation/responsiveness/desktop-homepage.png) | ![desktop](documentation/wireframes/desktop-homepage.png) |
-| Gallery Page | [mobile](documentation/responsiveness/mobile-gallery.png) | ![tablet](documentation/wireframes/mobile-gallery.png) |
-| Gallery Page | [tablet](documentation/responsiveness/tablet-gallery.png) | ![tablet](documentation/wireframes/tablet-gallery.png) |
-| Gallery Page | [desktop](documentation/responsiveness/desktop-gallery.png) | ![tablet](documentation/wireframes/desktop-gallery.png) |
-| Events Page | [mobile](documentation/responsiveness/mobile-events.png) | ![desktop](documentation/wireframes/mobile-events.png) |
-| Events Page | [tablet](documentation/responsiveness/tablet-events.png) | ![desktop](documentation/wireframes/tablet-events.png) |
-| Events Page | [desktop](documentation/responsiveness/desktop-events.png) | ![desktop](documentation/wireframes/desktop-events.png) |
+| Home Page | ![mobile](documentation/responsiveness/homepage-resp-mobile.png) | ![mobile](documentation/wireframes/mobile-homepage.png) |
+| Home Page | ![tablet](documentation/responsiveness/homepage-resp-tablet.png) | ![tablet](documentation/wireframes/tablet-homepage.png) |
+| Home Page | ![desktop](documentation/responsiveness/homepage-resp-desktop.png) | ![desktop](documentation/wireframes/desktop-homepage.png) |
+| Gallery Page | ![mobile](documentation/responsiveness/gallerypage-resp-mobile.png) | ![mobile](documentation/wireframes/mobile-gallery.png) |
+| Gallery Page | ![tablet](documentation/responsiveness/gallerypage-resp-tablet.png) | ![tablet](documentation/wireframes/tablet-gallery.png) |
+| Gallery Page | ![desktop](documentation/responsiveness/gallerypage-resp-desktop.png) | ![desktop](documentation/wireframes/desktop-gallery.png) |
+| Events Page | ![mobile](documentation/responsiveness/eventspage-resp-mobile.png) | ![desktop](documentation/wireframes/mobile-events.png) |
+| Events Page | ![tablet](documentation/responsiveness/eventspage-resp-tablet.png) | ![desktop](documentation/wireframes/tablet-events.png) |
+| Events Page | ![desktop](documentation/responsiveness/eventspage-resp-desktop.png) | ![desktop](documentation/wireframes/desktop-events.png) |
 
 ---
 
