@@ -2,7 +2,7 @@
 
 The Yorkshire Art House is a landing page for art enthusiasts, collectors and students who are local to, or visiting, Yorkshire. The Yorkshire Art House provides information about the artist, showcases some of her work and offers upcoming dates for exhibitions and art classes.
 
-Users of this website will be able to access information about the artist and contact details on the Homepage, images of the art work on the Gallery page, and dates of exhibitions and classes as well as a sign up form on the Events page, which are all accessible from the navigation bar in the header of all pages. The site is targeted at people of all ages with an interest in fine art, landscapes and the Yorkshire Dales.
+Users of this website will be able to access information about the artist and contact details on the homepage, images of the art work on the gallery page, and dates of exhibitions and classes as well as a sign up form on the events page, which are all accessible from the navigation bar in the header of all pages. The site is targeted at people of all ages with an interest in fine art, landscapes and the Yorkshire Dales.
 
 ![Screenshot of webpage on common screen sizes using am I responsive](documentation/responsiveness/responsive-homepage.png)
 
@@ -32,7 +32,9 @@ The colors are inspired by the art work shown, specifically from the hero image 
 
 ### Typography
 
-Explain fonts and icon libraries used
+The fonts were imported from [Google Fonts](https://fonts.google.com/). Montserrat (Light 300) is used for the logo and all headings, and Roboto (Light 300) is used for all other body elements.
+
+The social media icons in the footer and the icons in the Contact Us section were taken from [Font Awesome.](https://fontawesome.com/icons)
 
 ### Wireframes
 
