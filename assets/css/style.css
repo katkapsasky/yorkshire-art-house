@@ -226,6 +226,8 @@ a {
 
 #about-us-bottom-image>img {
     border-radius: 25px;
+    max-width: 100%;
+    height: fit-content;
 }
 
 /* contact us */
@@ -553,7 +555,7 @@ h3 {
     #about-us-bottom-image {
         grid-area: 7 / 1 / 8 / 2;
         text-align: center;
-        padding-bottom: 5%;
+        padding-bottom: 10%;
     }
 
     #about-us-bottom-image>img {
@@ -766,7 +768,7 @@ h3 {
     #about-us-bottom-image {
         grid-area: 7 / 1 / 8 / 2;
         margin: 0 auto;
-        padding-bottom: 10%;
+        padding-bottom: 20%;
     }
 
     #about-us-bottom-image>img {
@@ -776,7 +778,6 @@ h3 {
     /* contact us */
 
     #contact {
-        height: 70vh;
         width: 100%;
         color: #fff;
         background-color: rgba(44, 110, 73, .9);
