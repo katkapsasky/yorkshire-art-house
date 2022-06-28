@@ -6,11 +6,14 @@
     border: none;
 }
 
-html, body { height: 100%;}
+html,
+body {
+    height: 100%;
+}
 
-body > footer {
-  position: sticky;
-  top: 100vh;
+body>footer {
+    position: sticky;
+    top: 100vh;
 }
 
 body {
@@ -129,8 +132,8 @@ header ul li a:hover {
     width: 20vw;
     background-color: rgba(44, 110, 73, .7);
 
-    top: 200px;
-    right: 100px;
+    bottom: 2vw;
+    right: 3vw;
 
     position: absolute;
 }
@@ -469,10 +472,20 @@ h3 {
         text-transform: uppercase;
         letter-spacing: 3px;
         border-radius: 20px;
-        width: 50%;
-        margin: 0 auto;
+        text-align: center;
+
+        width: 40vw;
         background-color: rgba(44, 110, 73, .7);
+
+        bottom: 2vw;
+        right: 3vw;
+
         position: absolute;
+
+    }
+
+    a {
+        text-decoration: none;
     }
 
 
@@ -549,7 +562,7 @@ h3 {
 
     /* contact us */
     #contact {
-        height: 55vh;
+        height: 70vh;
         width: 100%;
         color: #fff;
         background-color: rgba(44, 110, 73, .9);
@@ -557,49 +570,57 @@ h3 {
 
     #contact-title {
         text-align: center;
-        padding: 1%;
+        padding-top: 1%;
     }
 
     .contact-container {
         display: grid;
-        grid-template-columns: 50% 50%;
-        grid-template-rows: 10% 20% 10% 20% 10% 20%;
+        grid-template-columns: 100%;
+        grid-template-rows: auto auto auto auto auto auto;
         justify-content: center;
         text-align: center;
+
         grid-row-gap: 10px;
     }
 
     .opening-times-title {
-        grid-column: 1;
+        grid-column: 1 / span 2;
         grid-row: 1;
         text-align: center;
+        padding: 0%;
     }
 
     .opening-times {
-        grid-column: 1;
+        grid-column: 1 / span 2;
         grid-row: 2;
         text-align: center;
+        padding-right: 33%;
+        padding-left: 33%;
+        padding-bottom: 2%;
     }
 
     .get-in-touch-title {
-        grid-column: 2;
-        grid-row: 1;
+        grid-column: 1 / span 2;
+        grid-row: 3;
+        padding: 0%;
     }
 
     .get-in-touch {
-        grid-column: 2;
-        grid-row: 2;
+        grid-column: 1 / span 2;
+        grid-row: 4;
+        padding-bottom: 2%;
     }
 
     .address-title {
         grid-column: 1 / span 2;
-        grid-row: 3;
-        margin-top: 1%;
+        grid-row: 5;
+        padding: 0%;
     }
 
     .address {
         grid-column: 1 / span 2;
-        grid-row: 4;
+        grid-row: 6;
+        padding-bottom: 2%;
     }
 
     /* Events page */
