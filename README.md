@@ -54,11 +54,20 @@ The social media icons in the footer and the icons in the Contact Us section wer
 
 ## Features
 
-Briefly explain the project
+The Yorkshire Art House consists of three main pages: the homepage, gallery and events, and a confirmation page which users are taken to once they have signed up using the form. Each page has the same header, containing the navbar, and footer with social media links. 
 
 ### Existing Features
 
-Screenshots of all main features and a few lines about what each feature does and how it benefits the user.
+![header](documentation/features/navbar.png)
+![footer](documentation/features/footer.png.png)
+![hero image and call to action](documentation/features/hero-image-call-to-action.png)
+![about us top section](documentation/features/about-us-our-story.png)
+![about us middle and bottom sections](documentation/features/about-us-artist-community.png)
+![contact us](documentation/features/contact-us.png)
+![gallery](documentation/features/gallery.png)
+![events info](documentation/features/events-info.png)
+![form](documentation/features/form.png)
+![confirmation page](documentation/features/confirmation-page.png)
 
 ### Future Features 
 
