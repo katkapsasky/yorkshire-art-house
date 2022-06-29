@@ -15,17 +15,15 @@ The website is made up of three main pages. Each page has a consistent theme, us
 ### User Stories
 
 As a user, 
-<ul>
-<li>I would like to find information about the gallery including it's history, it's location, the type of artwork displayed and information about the artist. </li> 
-<li>I would like to know the contact details for the gallery, including opening days and times, phone, email, address and social media links. </li>
-<li>I would like to view artwork by the artist</li>
-<li>I would like to find information about services provided by the gallery, including arts classes and exhibitions.</li>
-<li>I would like to sign up for further information and to get involved in activities such as art classes and exhibitions</li>
-</ul>
+- I would like to find information about the gallery including it's history, it's location, the type of artwork displayed and information about the artist.  
+- I would like to know the contact details for the gallery, including opening days and times, phone, email, address and social media links. 
+- I would like to view artwork by the artist
+- I would like to find information about services provided by the gallery, including arts classes and exhibitions.
+- I would like to sign up for further information and to get involved in activities such as art classes and exhibitions
 
 ### Color Scheme
 
-The colors are inspired by the art work shown, specifically from the hero image on the homepage. The color scheme was generated using https://coolors.co
+The colors are inspired by the art work shown, specifically from the hero image on the homepage. The color scheme was generated using [Coolors](https://coolors.co).
 
 ![color scheme](documentation/colorscheme/color-scheme.png)
 
@@ -94,27 +92,23 @@ The confirmation page is only accessible once a form has been submitted. It cont
 
 ### Future Features 
 
-<ul>
-<li>A map to be included in the Contact Us section to allow users to access location information more quickly and easily</li>
-<li>A hamburger menu on tablet and mobile screen devices to provide a more intuitive user experience</li>
-<li>Enable form submissions to be sent directly to the artist's email address so she can manage and respond to users wanting to get involved</li>
-<li>A video tutorial section with embedded videos, allowing users to learn to paint from home</li>
-</ul>
+- A map to be included in the Contact Us section to allow users to access location information more quickly and easily
+- A hamburger menu on tablet and mobile screen devices to provide a more intuitive user experience
+- Enable form submissions to be sent directly to the artist's email address so she can manage and respond to users wanting to get involved
+- A video tutorial section with embedded videos, allowing users to learn to paint from home
 
 ---
 
 ## Technologies Used
 
-<ul>
-<li>HTML: Used for site layout and context</li>
-<li>CSS: Used for site layout and aesthetics</li>
-<li>[Gitpod] (https://gitpod.io) : Used as a cloud-based development IDE</li>
-<li>[Github] (https://github.com/) : Used to securely store my code online</li>
-<li>[Git] (https://git-scm.com/) : Used for version control</li>
-<li>[Balsamiq] (https://balsamiq.com/) : Used for making wireframes</li>
-<li>[TinyPng] (https://tinypng.com/) : Used for compressing images</li>
-<li>[Image Resizer] (https://imageresizer.com/) : Used for resizing images</li>
-</ul>
+- HTML: Used for site layout and context
+- CSS: Used for site layout and aesthetics
+- [Gitpod](https://gitpod.io): Used as a cloud-based development IDE
+- [Github](https://github.com/): Used to securely store my code online
+- [Git](https://git-scm.com/): Used for version control
+- [Balsamiq](https://balsamiq.com/): Used for making wireframes
+- [TinyPng](https://tinypng.com/): Used for compressing images
+- [Image Resizer](https://imageresizer.com/): Used for resizing images
 
 ---
 
