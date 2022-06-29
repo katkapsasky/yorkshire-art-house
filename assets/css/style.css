@@ -358,8 +358,7 @@ footer {
 
 /* Events page */
 #events-info {
-    background-color: #C8A7AB;
-    color: #fff;
+    background-color: #E0CDCF;
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto;
@@ -369,6 +368,7 @@ footer {
 }
 
 #events-info>h2 {
+    color: #2C6E49;
     text-align: center;
     grid-row: 1;
     grid-column: span 4;
@@ -378,7 +378,8 @@ footer {
 
 #events-info>div {
     grid-row: 2;
-    background-color: rgba(44, 110, 73);
+    color: #fff;
+    background-color: #2C6E49;
     border: 10px solid #C5D86D;
     text-align: center;
 
@@ -629,7 +630,7 @@ h3 {
     #events-info {
         display: flex;
         flex-direction: column;
-        background-color: #C8A7AB;
+        background-color: #E0CDCF;
         color: #fff;
         margin-top: 5%;
     }
@@ -855,7 +856,7 @@ h3 {
     #events-info {
         display: flex;
         flex-wrap: wrap;
-        background-color: #C8A7AB;
+        background-color: #E0CDCF;
         background-size: cover;
         overflow: hidden;
         color: #fff;
