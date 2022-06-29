@@ -144,10 +144,9 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 ## Credits
 
 ### Code
-- [Code Institute: Coders Coffeehouse](https://codeinstitute.net/) for:
- - Table structure for opening times in contact us section
+[Code Institute: Coders Coffeehouse](https://codeinstitute.net/) for table structure for opening times in contact us section
 
-- [Code Institute: Love Running Project](https://codeinstitute.net/) for:
+[Code Institute: Love Running Project](https://codeinstitute.net/) for:
  - General body CSS style rules
  - Logo and navbar styling
  - Hero image and cover text initial styling
@@ -157,24 +156,24 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
  - HTML and CSS for form structure and styling
  - CSS media queries
 
-- [W3 Schools: Learn CSS Grid](https://www.w3schools.com/css/css_grid.asp), [FreeCodeCamp: CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid), [CSS Grid Garden](https://cssgridgarden.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout) and [Learn CSS Grid](https://learncssgrid.com/#spanning-items) for:
+[W3 Schools: Learn CSS Grid](https://www.w3schools.com/css/css_grid.asp), [FreeCodeCamp: CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid), [CSS Grid Garden](https://cssgridgarden.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout) and [Learn CSS Grid](https://learncssgrid.com/#spanning-items) for:
  - Navbar styling for desktop, tablet and mobile
  - About Us section styling for desktop, tablet and mobile
  - Contact Us section styling for desktop, tablet and mobile
  - Footer styling for desktop
  - Events information section styling for desktop
 
-- [W3 Schools How to - Fixed Menu](https://www.w3schools.com/howto/howto_css_fixed_menu.asp) for creating a fixed navbar.
+[W3 Schools How to - Fixed Menu](https://www.w3schools.com/howto/howto_css_fixed_menu.asp) for creating a fixed navbar.
 
-- [W3 Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) for events information styling for tablet and mobile.
+[W3 Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) for events information styling for tablet and mobile.
 
-- [W3 Schools - Styling images](https://www.w3schools.com/css/css3_images.asp) for editing border radius on images in about us section.
+[W3 Schools - Styling images](https://www.w3schools.com/css/css3_images.asp) for editing border radius on images in about us section.
 
-- [Coder Coder!](https://coder-coder.com/responsive-navigation-bar-flexbox-vs-css-grid/) for navbar styling for desktop.
+[Coder Coder!](https://coder-coder.com/responsive-navigation-bar-flexbox-vs-css-grid/) for navbar styling for desktop.
 
-- [Fake Number](https://fakenumber.org/uk/york) for generating a realistic, fake phone number for the contact us, get in touch section. 
+[Fake Number](https://fakenumber.org/uk/york) for generating a realistic, fake phone number for the contact us, get in touch section. 
 
-- My mentor, Tim Nelson for:
+My mentor, Tim Nelson for:
  - How to align the call to action across desktop, tablet and mobile
  - How to center images within a div for the about us section
  - How to create a page which redirects after a set amount of time
