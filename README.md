@@ -59,7 +59,7 @@ The Yorkshire Art House consists of three main pages: the homepage, gallery and 
 ### Existing Features
 
 ![header](documentation/features/navbar.png)
-![footer](documentation/features/footer.png.png)
+![footer](documentation/features/footer.png)
 ![hero image and call to action](documentation/features/hero-image-call-to-action.png)
 ![about us top section](documentation/features/about-us-our-story.png)
 ![about us middle and bottom sections](documentation/features/about-us-artist-community.png)
