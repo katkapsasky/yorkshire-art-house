@@ -58,36 +58,37 @@ The Yorkshire Art House consists of three main pages: the homepage, gallery and 
 
 ### Existing Features
 
-####Header
+#### Header
 The header contains the navbar which is made up of the Yorkshire Art House logo on the left, and the Home, Gallery and Events clickable links on the right which allow the user to easily navigate between the three site pages. The logo is also a clickable link for the homepage. The header is consistent across all pages of the site.
 ![header](documentation/features/navbar.png)
-####Footer
+#### Footer
 The footer is fixed to the bottom of each page and is consistent across the site. It contains social media links to Facebook, Twitter, Youtube and Instagram, which open in a new tab when clicked. 
 ![footer](documentation/features/footer.png)
-####Home: Hero Image and Call to Action
+#### Home: Hero Image and Call to Action
 The hero image sits at the top of the homepage and is a piece of art created by the artist, Jo Thomas, whose work is on display throughout the Yorkshire Art House website. This gives users a chance to see the artwork as soon as they land on the homepage. The colours of the site are inspired by this image to keep a consistent theme throughout.
 The call to action overlays the hero image and contains a clickable link to the events page so that users can quickly and easily access the services the gallery offers and more information about getting involved. 
 ![hero image and call to action](documentation/features/hero-image-call-to-action.png)
-####Home: About Us
+#### Home: About Us
 The about us section is split into three parts, each with a heading, paragraph of text and an image. 
 The first section, Our Story, provides background information about the gallery and inspiration behind the artwork displayed. The image is of a field in Reeth, where the gallery is set.
 The middle section, About the Artist, provides a brief history of the artist's education and working artistic background. The image shows the artist painting a colourful landscape on an easel. 
 The final section, Our Community, details information about the services offered by the Yorkshire Art House, including art classes and exhibitions. The photo is of a flock of sheep in Reeth.
 ![about us top section](documentation/features/about-us-our-story.png)
 ![about us middle and bottom sections](documentation/features/about-us-artist-community.png)
-####Home: Contact Us
+#### Home: Contact Us
 The contact information can be found under the about us section and is split into three parts. 
 The opening times show the days and times the gallery is open for visitors, the get in touch section provides a phone number and email address, and the find us section shows the gallery address.  
 ![contact us](documentation/features/contact-us.png)
-####Gallery
+#### Gallery
 The gallery page is the second website page, accessible via the navbar. It features a masonry design which showcases some of the artists artwork for users to view. 
 ![gallery](documentation/features/gallery.png)
-####Events: Information
+#### Events: Information
 The top section of the events page offers information on upcoming art classes and exhibitions. There are four upcoming events, each detailing what type of event, more specific information about the art involved as well as the date time and location of each.
 ![events info](documentation/features/events-info.png)
-####Events: Form
+#### Events: Form
 The bottom section of the events page consists of a form which allows users to sign up for upcoming events by submitting their first and last names, email address, and selecting if they are interested in art classes, exhibitions or both using the radio buttons provided. Once all the information is filled in, clicking on the "Let's Paint!" submit button, the user will be redirected to the confirmation page.
 ![form](documentation/features/form.png)
+#### Confirmation Page
 The confirmation page is only accessible once a form has been submitted. It contains a message giving the user confirmation that they have signed up successfully and advises they will be redirected to the homepage in 10 seconds. The page features the same header and footer as all other pages for consistency, and so the navbar is available should the user not be redirected automatically.
 ![confirmation page](documentation/features/confirmation-page.png)
 
