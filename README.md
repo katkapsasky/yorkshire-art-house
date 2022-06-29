@@ -103,12 +103,16 @@ The confirmation page is only accessible once a form has been submitted. It cont
 
 - HTML: Used for site layout and context
 - CSS: Used for site layout and aesthetics
+- CSS Grid: Used for site layout, aesthetics and responsiveness
+- CSS Flexbox: Used for site layout, aesthetics and responsiveness
 - [Gitpod](https://gitpod.io): Used as a cloud-based development IDE
 - [Github](https://github.com/): Used to securely store my code online
 - [Git](https://git-scm.com/): Used for version control
 - [Balsamiq](https://balsamiq.com/): Used for making wireframes
 - [TinyPng](https://tinypng.com/): Used for compressing images
 - [Image Resizer](https://imageresizer.com/): Used for resizing images
+- [Eyedropper](https://eyedropper.org/installed): Used for selecting colors from the hero image
+- [Coolors](https://coolors.co/305373-c5d86d-f7f7f2-2c6e49-c8a7ab): Used for creating the website color palette
 
 ---
 
@@ -140,11 +144,53 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 ## Credits
 
 ### Code
+- [Code Institute: Coders Coffeehouse](https://codeinstitute.net/) for:
+ - Table structure for opening times in contact us section
+
+- [Code Institute: Love Running Project](https://codeinstitute.net/) for:
+ - General body CSS style rules
+ - Logo and navbar styling
+ - Hero image and cover text initial styling
+ - Hero image zoom effect 
+ - Gallery page, image masonry styling
+ - Events info initial styling
+ - HTML and CSS for form structure and styling
+ - CSS media queries
+
+- [W3 Schools: Learn CSS Grid](https://www.w3schools.com/css/css_grid.asp), [FreeCodeCamp: CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid), [CSS Grid Garden](https://cssgridgarden.com/), [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout) and [Learn CSS Grid](https://learncssgrid.com/#spanning-items) for:
+ - Navbar styling for desktop, tablet and mobile
+ - About Us section styling for desktop, tablet and mobile
+ - Contact Us section styling for desktop, tablet and mobile
+ - Footer styling for desktop
+ - Events information section styling for desktop
+
+- [W3 Schools How to - Fixed Menu](https://www.w3schools.com/howto/howto_css_fixed_menu.asp) for creating a fixed navbar.
+
+- [W3 Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) for events information styling for tablet and mobile.
+
+- [W3 Schools - Styling images](https://www.w3schools.com/css/css3_images.asp) for editing border radius on images in about us section.
+
+- [Coder Coder!](https://coder-coder.com/responsive-navigation-bar-flexbox-vs-css-grid/) for navbar styling for desktop.
+
+- [Fake Number](https://fakenumber.org/uk/york) for generating a realistic, fake phone number for the contact us, get in touch section. 
+
+- My mentor, Tim Nelson for:
+ - How to align the call to action across desktop, tablet and mobile
+ - How to center images within a div for the about us section
+ - How to create a page which redirects after a set amount of time
+ - How to create a sticky footer 
 
 ### Content
+- My mum, Jo Thomas for providing the wording for the about us sections, and the themes for the upcoming art classes and exhibitions.
 
 ### Media
+- My mum, Jo Thomas who created the artwork in the hero image and the gallery page. 
+- [Shane Rounce, Unsplash](https://unsplash.com/photos/ad1bmH7-fJU) for the first image in the about us section.
+- Middle image taken by myself.
+- [Illiya Vjestica, Unsplash](https://unsplash.com/photos/pP4eKGzZWdI) for the bottom image in the about us section. 
 
 ### Acknowledgements
-
+- My mum, Jo Thomas, without whom the artwork and the idea for the Yorkshire Art House website would not exist. 
+- My mentor, Tim Nelson, for his invaluable feedback, insight and support in fixing many bugs alongs the way.
+- The Code Institute Slack community for providing countless helpful tips and tricks. 
 ---
