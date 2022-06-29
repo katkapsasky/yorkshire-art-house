@@ -21,14 +21,32 @@ The website has been tested on Google Chrome, Safari and Edge. The screenshots b
 ## Code Validation
 
 HTML Validation:
+![HTML Homepage Validation](documentation/codevalidation/html-homepage-validation.png)
 https://validator.w3.org/nu/?doc=https://katkapsasky.github.io/yorkshire-art-house/index.html
+![HTML Gallery page Validation](documentation/codevalidation/html-gallerypage-validation.png)
 https://validator.w3.org/nu/?doc=https://katkapsasky.github.io/yorkshire-art-house/gallery.html
+![HTML Events page Validation](documentation/codevalidation/html-eventspage-validation.png)
 https://validator.w3.org/nu/?doc=https://katkapsasky.github.io/yorkshire-art-house/events.html
-https://validator.w3.org/nu/?doc=https://katkapsasky.github.io/yorkshire-art-house/confirmation.html 
+![HTML Confirmation page Validation](documentation/codevalidation/html-confirmationpage-validation.png)
+https://validator.w3.org/nu/?doc=https://katkapsasky.github.io/yorkshire-art-house/confirmation.html
+
+CSS Validation:
+![CSS Validation](documentation/codevalidation/css-validation.png)
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkatkapsasky.github.io%2Fyorkshire-art-house
 
 ## Responsiveness
 
-Showcase proof that project has been tested on different device sizes
+| Page | Screensize | Responsiveness |
+| --- | --- | --- |
+| Home Page | Mobile | ![mobile](documentation/responsiveness/homepage-resp-mobile.png) |
+| Home Page | Tablet | ![tablet](documentation/responsiveness/homepage-resp-tablet.png) |
+| Home Page | Desktop | ![desktop](documentation/responsiveness/homepage-resp-desktop.png) |
+| Gallery Page | Mobile | ![mobile](documentation/responsiveness/gallerypage-resp-mobile.png) |
+| Gallery Page | Tablet | ![tablet](documentation/responsiveness/gallerypage-resp-tablet.png) |
+| Gallery Page | Desktop | ![desktop](documentation/responsiveness/gallerypage-resp-desktop.png) |
+| Events Page | Mobile | ![mobile](documentation/responsiveness/eventspage-resp-mobile.png) |
+| Events Page | Tablet | ![tablet](documentation/responsiveness/eventspage-resp-tablet.png) |
+| Events Page | Desktop | ![desktop](documentation/responsiveness/eventspage-resp-desktop.png) |
 
 ## Accessibility
 
