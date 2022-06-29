@@ -54,6 +54,10 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkatkapsasky.gith
 
 ### Fixed Bugs
 
+The form was initially set up to send submitted data to the Code Institute Formdump and so was set up with a method of Post. When creating the confirmation page for users who have submitted information via the form I received an error 501.
+![error 501 fixed bug](documentation/bugs/error-501.png)
+By removing the method and it's value of post from the form I fixed the bug and users who submit the form are now correctly redirected to the confirmation page.
+
 ### Unfixed Bugs
 
 There are no remaining bugs that I am aware of.
