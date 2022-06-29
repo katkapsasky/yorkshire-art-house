@@ -80,12 +80,12 @@ Ideas of features to be added in the future.
 <ul>
 <li>HTML: Used for site layout and context</li>
 <li>CSS: Used for site layout and aesthetics</li>
-<li>![Gitpod:](https://gitpod.io) Used as a cloud-based development IDE</li>
-<li>![Github:](https://github.com/) Used to securely store my code online</li>
-<li>![Git:](https://git-scm.com/) Used for version control</li>
-<li>![Balsamiq:](https://balsamiq.com/) Used for making wireframes</li>
-<li>![TinyPng:](https://tinypng.com/) Used for compressing images</li>
-<li>![Image Resizer:](https://imageresizer.com/) Used for resizing images</li>
+<li>[Gitpod:](https://gitpod.io) Used as a cloud-based development IDE</li>
+<li>[Github:](https://github.com/) Used to securely store my code online</li>
+<li>[Git:](https://git-scm.com/) Used for version control</li>
+<li>[Balsamiq:](https://balsamiq.com/) Used for making wireframes</li>
+<li>[TinyPng:](https://tinypng.com/) Used for compressing images</li>
+<li>[Image Resizer:](https://imageresizer.com/) Used for resizing images</li>
 </ul>
 
 ---
