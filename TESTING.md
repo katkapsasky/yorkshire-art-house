@@ -50,6 +50,20 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkatkapsasky.gith
 
 ## Accessibility
 
+The homepage, gallery page and events page have all been audited with Google Lighthouse and received a score of 100.
+
+### Homepage
+
+![homepage accessibility score](documentation/accessibility/homepage-lighthouse.png)
+
+### Gallery
+
+![gallerypage accessibility score](documentation/accessibility/gallerypage-lighthouse.png)
+
+### Events
+
+![eventspage accessibility score](documentation/accessibility/eventspage-lighthouse.png)
+
 ## Bugs
 
 ### Fixed Bugs
@@ -63,3 +77,5 @@ By removing the method and it's value of post from the form I fixed the bug and 
 ### Unfixed Bugs
 
 There are no remaining bugs that I am aware of.
+
+---
